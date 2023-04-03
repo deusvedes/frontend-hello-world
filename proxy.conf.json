@@ -1,0 +1,8 @@
+{
+  "/hello": {
+    "target": "https://taaweni0-hello-world-hello-world.azuremicroservices.io",
+    "secure": false,
+    "changeOrigin": true,
+    "logLevel": "debug"
+  }
+}
